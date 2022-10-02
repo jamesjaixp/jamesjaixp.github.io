@@ -1,4 +1,3 @@
-# jamesjaixp.github.io
 _includes/head-custom-google-analytics.html
 {% if site.google_analytics %}
   <script>
